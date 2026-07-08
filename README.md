@@ -1,8 +1,8 @@
-# SAP Labs Assignment – Multimodal Product Similarity Search
+# Amazon Fashion – Multimodal Product Similarity Search
 
 ## Overview
 
-This project implements a **multimodal product similarity search system** for the Amazon Fashion dataset as part of the SAP Labs assignment.
+This project implements a **multimodal product similarity search system** for the Amazon Fashion dataset.
 
 The goal is to retrieve products that are similar to a given query product by leveraging information from multiple modalities instead of relying solely on textual matching.
 
